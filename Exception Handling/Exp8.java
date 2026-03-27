@@ -5,9 +5,11 @@ class Exp8
 public static void main(String args[])
 	{
 	Thread t = Thread.currentThread();
-	try{
+	
+		try{
 	t.start();
-	}catch(IllegalThreadStateException its)
+		}
+		catch(IllegalThreadStateException its)
 		{
 		System.out.println(its);
 		}
