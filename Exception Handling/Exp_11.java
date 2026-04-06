@@ -1,6 +1,8 @@
 import java.util.*;
 import java.util.concurrent.*;
-public class Exp12 {
+
+public class Exp_11 
+{
 
 	public static void main(String[] args) 
 	{
