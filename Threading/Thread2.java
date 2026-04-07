@@ -26,3 +26,17 @@ class Thread2
 	
 	}
 }
+
+
+// 		OUTPUT
+// 			1
+// 2
+// 3
+// 4
+// 5
+// child thread 1
+// child thread 2
+// child thread 3
+// child thread 4
+// child thread 5
+
